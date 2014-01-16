@@ -17,3 +17,23 @@ header
 	width:98%;
 	margin-left:5px;
 }
+.thumbnail.right-caption > img {
+    float: left;
+    margin-right: 9px;
+}
+
+.thumbnail.right-caption {
+    float: left;
+}
+
+.thumbnail.right-caption > .caption {
+    padding: 4px;
+}
+​.thumbnail.right-caption > h3{
+	padding-top:2px;
+	margin-top:0px;
+}
+h3{
+	margin:0px;
+	padding: 0px;
+}
